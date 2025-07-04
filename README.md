@@ -18,4 +18,4 @@ A simple desktop-based file crawler built with C#. This application allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muskan-batool/Destktop-Crawler2
+   git clone https://github.com/ifra-sarfaraz/Destktop-Crawler2
