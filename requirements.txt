@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-docx
+pdfminer.six
+PyPDF2
+scikit-learn
